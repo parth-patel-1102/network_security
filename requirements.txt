@@ -4,5 +4,8 @@ numpy
 pymongo
 certifi
 pymongo[srv]==4.7
+mlflow
+dagshub
+scikit-learn
 ##-e .
 
